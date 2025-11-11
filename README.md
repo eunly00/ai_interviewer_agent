@@ -1,5 +1,8 @@
 # AI 면접 에이전트 (AI Interview Agent)
 <img width="897" height="648" alt="image" src="https://github.com/user-attachments/assets/5c017aea-8894-437c-bc7d-555111eb99f7" />
+
+
+
 ## 프로젝트 소개
 이 프로젝트는  **AI 기반 면접 연습 에이전트**입니다.  
 이력서(PDF/DOCX)를 업로드하면, ChatGPT와 LangChain을 활용해 맞춤형 면접 질문을 생성하고,  
